@@ -1,0 +1,21 @@
+
+.DS_Store
+
+.idea/
+*.iml
+.idea_modules/
+
+venv/
+.env/
+ENV/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
